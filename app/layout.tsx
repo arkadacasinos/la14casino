@@ -85,6 +85,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark">
       <head>
+        <meta name="yandex-verification" content="036643eefda88e4f" />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
         <meta name="theme-color" content="#0b0a14" />
